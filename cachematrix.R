@@ -1,4 +1,4 @@
-## Theses function creates a matrix and computes its inverse then caches
+## These functions create a matrix and computes its inverse then caches
 ## it such that if a re-attempt to recompute the same matrix occurs, it
 ## simply retrieves the cached result thereby saving costly processing time.
 
